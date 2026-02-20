@@ -4,6 +4,3 @@ Para as aulas de programação de TI da PUC-CAMPINAS/ 1º semestre
  
 criado por
 Eduardo Campos
-
-Matheus é gay
-
